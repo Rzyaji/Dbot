@@ -6,9 +6,9 @@ const BotName = 'RadBot'; // Nama Bot Whatsapp
 const instagramlu = '@radya ajisa'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/+6282147334265'; // Nomor whatsapplu cok
 const kapanbotaktif = 'tydak pasti; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
-const grupch3 = 'https://instagram.com/_sadboy.ig'; // OFFICIAL GRUP LU 3
+const grupch1 = 'gk ada'; // OFFICIAL GRUP LU 1
+const grupch2 = 'gk ada'; // OFFICIAL GRUP LU 2
+const grupch3 = 'gk ada'; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
